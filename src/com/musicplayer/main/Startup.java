@@ -1,4 +1,7 @@
 package com.musicplayer.main;
 
-public class Startup {
+public final class Startup {
+    public static void main(String[] args) {
+
+    }
 }
